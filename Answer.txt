@@ -1,0 +1,11 @@
+1)go.
+2)open(car_door).
+3)goto(road).
+4)open(gas_station_door).
+5)goto(gas_station).
+6)take(soda).
+7)take(newspaper).
+8)pay_with(money).
+9)goto(road).
+10)goto(car).
+11)halt. (optional , to end the game.)
